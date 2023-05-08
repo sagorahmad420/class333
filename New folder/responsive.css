@@ -127,6 +127,12 @@
         margin: 0px 17px;
      
     }
+    .header-right ul li a::after {
+      
+        left: 12px;
+        bottom: 6px;
+       
+    }
 }
 
 
