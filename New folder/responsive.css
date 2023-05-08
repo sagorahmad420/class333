@@ -58,6 +58,13 @@
         text-align: center;
         margin-bottom: 3px;
     }
+    .header-right ul li a::after {
+     
+      
+        left: 18px;
+        bottom: 10px;
+       
+    }
 }
 /* ===================================================878=============================== */
 @media (max-width:874px) {
